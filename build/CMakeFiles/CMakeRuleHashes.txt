@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+4cf711653f0485b6e7229778baba6834 CMakeFiles/nox_freertos.bin
+4cf711653f0485b6e7229778baba6834 CMakeFiles/nox_freertos.data
+4cf711653f0485b6e7229778baba6834 CMakeFiles/nox_freertos_boot_rom.v

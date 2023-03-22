@@ -1,0 +1,12 @@
+/test/build/CMakeFiles/nox_freertos.elf.dir
+/test/build/CMakeFiles/nox_freertos.bin.dir
+/test/build/CMakeFiles/nox_freertos.data.dir
+/test/build/CMakeFiles/nox_freertos_boot_rom.v.dir
+/test/build/CMakeFiles/edit_cache.dir
+/test/build/CMakeFiles/rebuild_cache.dir
+/test/build/libs/FreeRTOS-Kernel/CMakeFiles/freertos_kernel.dir
+/test/build/libs/FreeRTOS-Kernel/CMakeFiles/edit_cache.dir
+/test/build/libs/FreeRTOS-Kernel/CMakeFiles/rebuild_cache.dir
+/test/build/libs/FreeRTOS-Kernel/portable/CMakeFiles/freertos_kernel_port.dir
+/test/build/libs/FreeRTOS-Kernel/portable/CMakeFiles/edit_cache.dir
+/test/build/libs/FreeRTOS-Kernel/portable/CMakeFiles/rebuild_cache.dir
